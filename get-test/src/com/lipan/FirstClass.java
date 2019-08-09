@@ -14,6 +14,6 @@ public class FirstClass {
     }
 
     public void test(){
-        System.out.println("在github上");
+        System.out.println("尝试编辑冲突");
     }
 }
