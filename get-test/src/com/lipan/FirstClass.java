@@ -24,5 +24,6 @@ public class FirstClass {
         System.out.println("在idea中又修改");
         System.out.println("在github上第六次修改");
         System.out.println("在idea中还修改");
+        System.out.println("克隆后,在idea中修改");
     }
 }
