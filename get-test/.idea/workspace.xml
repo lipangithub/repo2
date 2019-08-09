@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14275fe1-9c92-447e-b3e4-01ba1cfef442" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lipan/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lipan/FirstClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/lipan/FirstClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="518">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
                 <element signature="e#220#221#0" expanded="true" />
                 <element signature="e#263#264#0" expanded="true" />
@@ -56,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -135,7 +134,7 @@
       <updated>1565358596205</updated>
       <workItem from="1565358599554" duration="2554000" />
       <workItem from="1565361208300" duration="970000" />
-      <workItem from="1565362452335" duration="1551000" />
+      <workItem from="1565362452335" duration="2157000" />
     </task>
     <task id="LOCAL-00001" summary="第一次测试提交">
       <created>1565359282297</created>
@@ -183,7 +182,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5075000" />
+    <option name="totallyTimeSpent" value="5681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +263,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/lipan/FirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
             <element signature="e#220#221#0" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
