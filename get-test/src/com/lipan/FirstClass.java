@@ -16,5 +16,6 @@ public class FirstClass {
     public void test(){
         System.out.println("尝试编辑冲突");
         System.out.println("在github上第二次修改");
+        System.out.println("在idea中修改");
     }
 }
